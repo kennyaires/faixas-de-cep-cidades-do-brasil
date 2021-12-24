@@ -2,7 +2,7 @@
 Coleção de todas as faixas de CEP por cidade do Brasil extraídas do site dos Correios.
 O conteúdo está disponível no arquivo `faixas-de-cep.jl` no formato [JSON lines](https://jsonlines.org/).
 
-# Brazilian zip codes per city
+# Brazilian zip codes per each city
 Collection of all cities zip codes in Brazil extracted from Brazilian national post service.
 The content is available on the file `faixas-de-cep.jl` in [JSON lines](https://jsonlines.org/) format.
 
